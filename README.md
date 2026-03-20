@@ -3,6 +3,11 @@
 ## 🚀 Demo
 [Live Demo](https://inkwell-rust-eight.vercel.app/auth/callback)
 
+## 📸 Screenshots
+
+![Screenshot](nombre-de-tu-archivo.png)
+![Screenshot 2](nombre-de-tu-archivo-2.png)
+
 ## 📌 Descripción
 Inkwell es una plataforma de blog moderna con un sistema completo de roles y permisos. Resuelve el problema de gestión editorial permitiendo que admins, editores, autores y lectores interactúen de manera organizada. Incluye un asistente de IA que ayuda a los autores a mejorar su escritura sin reemplazar su voz.
 
