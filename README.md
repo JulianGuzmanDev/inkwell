@@ -6,7 +6,7 @@
 ## 📸 Screenshots
 
 ![Screenshot](Captura de pantalla 2026-03-19 222124.png)
-![Screenshot 2](nombre-de-tu-archivo-2.png)
+![Screenshot 2](Captura de pantalla 2026-03-19 222152.png)
 
 ## 📌 Descripción
 Inkwell es una plataforma de blog moderna con un sistema completo de roles y permisos. Resuelve el problema de gestión editorial permitiendo que admins, editores, autores y lectores interactúen de manera organizada. Incluye un asistente de IA que ayuda a los autores a mejorar su escritura sin reemplazar su voz.
